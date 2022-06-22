@@ -1,4 +1,4 @@
-# THM_Writeups
+# TryHackMe Writeups
 This page consist of Weekly Writeups for 25 Days of Cyber Security
 https://tryhackme.com/room/learncyberin25days
 
